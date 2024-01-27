@@ -1,0 +1,71 @@
+.sfondo{
+    background-image: url("background.jpg");
+    background-size:cover;
+}
+.conteiner{
+    width: 1189px;
+    height: 839px;
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.logo{
+    width: 250px;
+    margin-top: 100px;
+}
+
+.text-logo{
+    color: lime;
+    margin: auto;
+}
+
+nav{
+    width: 996px;
+    height: 41px;
+    background-color: lime;
+    margin: auto;
+}
+.conteiner-nav{
+    margin: auto;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.Gino22{
+    
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+}
+.stato-batteria-gino{
+    
+    width: 345px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 5px 5px 5px 5px;
+}
+.Mike24{
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+}
+.stato-batteria-mike{
+    width: 596px;
+    height: 30px;
+    background-color: limegreen;
+    border-radius: 5px 5px 5px 5px;
+}
+.Fede154{
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+}
+.stato-batteria-fede{
+    width: 150px;
+    height: 30px;
+    background-color:red;
+    border-radius: 5px 5px 5px 5px;
+}
